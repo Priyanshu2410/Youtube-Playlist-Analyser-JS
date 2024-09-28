@@ -61,6 +61,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Preview
 
-![preview](https://github.com/user-attachments/assets/25cb250c-70e5-4d2b-b335-cf1298925d73)
+
+![preview](https://github.com/user-attachments/assets/a5e33d1d-9313-49ec-a9c7-89f9257c65e8)
 
 
